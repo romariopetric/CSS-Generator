@@ -1,0 +1,35 @@
+.sprite-luigi_01 {
+  background-image: url('sprite.png');
+  background-position: -0px 0;
+  width: 100px;
+  height: 179px;
+}
+
+.sprite-luigi_02 {
+  background-image: url('sprite.png');
+  background-position: -100px 0;
+  width: 100px;
+  height: 179px;
+}
+
+.sprite-luigi_03 {
+  background-image: url('sprite.png');
+  background-position: -200px 0;
+  width: 100px;
+  height: 179px;
+}
+
+.sprite-mario_04 {
+  background-image: url('sprite.png');
+  background-position: -300px 0;
+  width: 100px;
+  height: 123px;
+}
+
+.sprite-mario_06 {
+  background-image: url('sprite.png');
+  background-position: -400px 0;
+  width: 100px;
+  height: 123px;
+}
+
